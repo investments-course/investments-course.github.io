@@ -10,7 +10,7 @@ title:            Fin 305
 tagline:          Investments
 description:      'A course website'
 url:              
-baseurl:          /
+baseurl:          http://investments-course.github.io
 
 author:
   name:           'LB'
@@ -22,4 +22,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           http://investments-course.github.io
