@@ -6,8 +6,8 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Investments 305
-tagline:          
+title:            Fin 305
+tagline:          Investments
 description:      'A course website'
 url:              
 baseurl:          /
